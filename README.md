@@ -27,7 +27,7 @@ A base de dados contém as seguintes colunas:
 - Plotly (visualização de dados)
 - Jupyter Notebook
 
----
+
 
 ## Resultados
 
@@ -36,4 +36,3 @@ A base de dados contém as seguintes colunas:
 - **Atrasos frequentes** nos pagamentos estão correlacionados com maior taxa de cancelamento.
 - **Baixa frequência de uso** está associada ao cancelamento.
 
----
